@@ -1,4 +1,4 @@
-🏛️# BANK ANALYTICS  🏦 
+🏛️**BANK LOAN ANALYTICS**  🏦 
 
 Summary:
 Banking analytics is the process of collecting, analyzing, and interpreting data within the banking industry. By extracting valuable information from various sources, such as customer transactions, market trends, risk assessments, and operational performance, financial institutions can gain valuable insights and make informed decisions. Banking analytics requires the use of various analytical techniques and technologies including data visualization, business intelligence, AI-assisted data modeling, data mining, real-time KPI monitoring, and big data platforms.
